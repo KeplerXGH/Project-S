@@ -1,0 +1,2642 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Dedicated Servers List - Valve Developer Community</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dedicated_Servers_List","wgTitle":"Dedicated Servers List","wgCurRevisionId":378635,"wgRevisionId":378635,"wgArticleId":28885,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["English","Pages using Lang","Pages with other bugs","Steam","Steam Applications","Dedicated Server","Lists"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dedicated_Servers_List","wgRelevantArticleId":28885,"wgRequestId":"150717f8e4994cdb29eff56c","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0qhyvks",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","mmv.head","mmv.bootstrap.autostart","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.31.10"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Valve Developer Community (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://developer.valvesoftware.com/w/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Valve Developer Community Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=Vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Dedicated_Servers_List rootpage-Dedicated_Servers_List skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Dedicated Servers List</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Valve Developer Community</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="display:flex; gap:4px; width:calc(100% + 4px);user-select:none; pointer-events: none; position:absolute; z-index:100; top:calc(-17px - 0px); left:-4px"><div style="height:19px; background-color:#262626; border:1px solid #65635F; border-bottom:0;border-radius:3px 3px 0 0; pointer-events: all; margin-left: auto"><span style="margin:1px; border: 1px solid rgba(255,255,255,.3); padding: 0 1px; border-radius: 2px; background: rgba(255,255,255,.05);"><span style="position:relative;top:-1px"><img alt="English (en)" src="/w/images/thumb/3/37/Flag-en.png/16px-Flag-en.png" title="English (en)" width="16" height="11" srcset="/w/images/thumb/3/37/Flag-en.png/24px-Flag-en.png 1.5x, /w/images/thumb/3/37/Flag-en.png/32px-Flag-en.png 2x" data-file-width="1024" data-file-height="704" /></span></span><span style="margin:1px;padding:1px"><span style="position:relative;top:-1px"><a href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:pt-br&amp;uselang=pt-br" title="português do Brasil (pt-br)" rel="nofollow"><img alt="português do Brasil (pt-br)" src="/w/images/thumb/2/29/Flag-pt-br.png/16px-Flag-pt-br.png" width="16" height="11" srcset="/w/images/thumb/2/29/Flag-pt-br.png/24px-Flag-pt-br.png 1.5x, /w/images/thumb/2/29/Flag-pt-br.png/32px-Flag-pt-br.png 2x" data-file-width="128" data-file-height="88" /></a></span></span><span style="margin:1px;padding:1px"><span style="position:relative;top:-1px"><a href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:ru&amp;uselang=ru" title="русский (ru)" rel="nofollow"><img alt="русский (ru)" src="/w/images/e/e1/Flag-ru.png" width="16" height="11" data-file-width="16" data-file-height="11" /></a></span></span><span style="margin:1px;padding:1px"><span style="position:relative;top:-1px"><a href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:zh-cn&amp;uselang=zh" title="中文 (zh)" rel="nofollow"><img alt="中文 (zh)" src="/w/images/thumb/e/e9/Flag-zh.png/16px-Flag-zh.png" width="16" height="11" srcset="/w/images/thumb/e/e9/Flag-zh.png/24px-Flag-zh.png 1.5x, /w/images/thumb/e/e9/Flag-zh.png/32px-Flag-zh.png 2x" data-file-width="128" data-file-height="88" /></a></span></span></div><div style="pointer-events:all">
+	<center class="mw-customtoggle-content" style="height:19px; background-color:#262626; border:1px solid #65635F; border-bottom:0; border-radius:3px 3px 0 0"><span style="display:flex; justify-content:center; width:20px; height:100%" title="Translate"><div style="position: relative; top:-2px;"><img alt="Icon-translate.png" src="/w/images/thumb/b/b1/Icon-translate.png/12px-Icon-translate.png" width="12" height="12" srcset="/w/images/thumb/b/b1/Icon-translate.png/18px-Icon-translate.png 1.5x, /w/images/thumb/b/b1/Icon-translate.png/24px-Icon-translate.png 2x" data-file-width="256" data-file-height="256" /></div></span>
+	</center>
+	<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-content" style="display:none; overflow:hidden; background:#404040; border:1px solid rgba(255, 255, 255, 0.1); border-radius:4px; box-shadow:0 10px 20px rgb(0,0,0,.3); user-select:text; position:absolute; z-index:1001; right:26px; top:26px"><div style="overflow-y:auto;max-height:200px;padding:2px 6px;"><span class="plainlinks"><div><img alt="English (en)" src="/w/images/thumb/3/37/Flag-en.png/16px-Flag-en.png" title="English (en)" width="16" height="11" srcset="/w/images/thumb/3/37/Flag-en.png/24px-Flag-en.png 1.5x, /w/images/thumb/3/37/Flag-en.png/32px-Flag-en.png 2x" data-file-width="1024" data-file-height="704" /> <a class="mw-selflink selflink">English</a></div>
+		<div><img alt="Esperanto (eo)" src="/w/images/5/57/Flag-eo.png" title="Esperanto (eo)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:eo&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Esperanto</span></a></div>
+		<div><img alt="català (ca)" src="/w/images/7/74/Flag-ca.png" title="català (ca)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:ca&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Català</span></a></div>
+		<div><img alt="čeština (cs)" src="/w/images/7/78/Flag-cs.png" title="čeština (cs)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:cs&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Čeština</span></a></div>
+		<div><img alt="Deutsch (de)" src="/w/images/thumb/b/b7/Flag-de.png/16px-Flag-de.png" title="Deutsch (de)" width="16" height="11" srcset="/w/images/thumb/b/b7/Flag-de.png/24px-Flag-de.png 1.5x, /w/images/thumb/b/b7/Flag-de.png/32px-Flag-de.png 2x" data-file-width="512" data-file-height="352" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:de&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Deutsch</span></a></div>
+		<div><img alt="español (es)" src="/w/images/thumb/8/86/Flag-es.png/16px-Flag-es.png" title="español (es)" width="16" height="11" srcset="/w/images/thumb/8/86/Flag-es.png/24px-Flag-es.png 1.5x, /w/images/thumb/8/86/Flag-es.png/32px-Flag-es.png 2x" data-file-width="128" data-file-height="88" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:es&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Español</span></a></div>
+		<div><img alt="eesti (et)" src="/w/images/3/3a/Flag-et.png" title="eesti (et)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:et&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Eesti</span></a></div>
+		<div><img alt="français (fr)" src="/w/images/9/95/Flag-fr.png" title="français (fr)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:fr&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Français</span></a></div>
+		<div><img alt="magyar (hu)" src="/w/images/5/5b/Flag-hu.png" title="magyar (hu)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:hu&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Magyar</span></a></div>
+		<div><img alt="italiano (it)" src="/w/images/d/d3/Flag-it.png" title="italiano (it)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:it&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Italiano</span></a></div>
+		<div><img alt="Nederlands (nl)" src="/w/images/8/83/Flag-nl.png" title="Nederlands (nl)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:nl&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Nederlands</span></a></div>
+		<div><img alt="norsk (no)" src="/w/images/d/d6/Flag-no.png" title="norsk (no)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:no&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Norsk</span></a></div>
+		<div><img alt="polski (pl)" src="/w/images/9/9a/Flag-pl.png" title="polski (pl)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:pl&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Polski</span></a></div>
+		<div><img alt="português (pt)" src="/w/images/c/c8/Flag-pt.png" title="português (pt)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:pt&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Português</span></a></div>
+		<div><img alt="português do Brasil (pt-br)" src="/w/images/thumb/2/29/Flag-pt-br.png/16px-Flag-pt-br.png" title="português do Brasil (pt-br)" width="16" height="11" srcset="/w/images/thumb/2/29/Flag-pt-br.png/24px-Flag-pt-br.png 1.5x, /w/images/thumb/2/29/Flag-pt-br.png/32px-Flag-pt-br.png 2x" data-file-width="128" data-file-height="88" /> <a href="/wiki/Dedicated_Servers_List:pt-br" title="Dedicated Servers List:pt-br">Português do Brasil</a></div>
+		<div><img alt="русский (ru)" src="/w/images/e/e1/Flag-ru.png" title="русский (ru)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a href="/wiki/Dedicated_Servers_List:ru" title="Dedicated Servers List:ru">Русский</a></div>
+		<div><img alt="українська (uk)" src="/w/images/2/2b/Flag-uk.png" title="українська (uk)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:uk&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Українська</span></a></div>
+		<div><img alt="svenska (sv)" src="/w/images/f/fb/Flag-sv.png" title="svenska (sv)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:sv&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Svenska</span></a></div>
+		<div><img alt="Türkçe (tr)" src="/w/images/2/24/Flag-tr.png" title="Türkçe (tr)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:tr&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">Türkçe</span></a></div>
+		<div><img alt="日本語 (ja)" src="/w/images/c/cd/Flag-ja.png" title="日本語 (ja)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:ja&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">日本語</span></a></div>
+		<div><img alt="中文 (zh)" src="/w/images/thumb/e/e9/Flag-zh.png/16px-Flag-zh.png" title="中文 (zh)" width="16" height="11" srcset="/w/images/thumb/e/e9/Flag-zh.png/24px-Flag-zh.png 1.5x, /w/images/thumb/e/e9/Flag-zh.png/32px-Flag-zh.png 2x" data-file-width="128" data-file-height="88" /> <a href="/wiki/Dedicated_Servers_List:zh-cn" title="Dedicated Servers List:zh-cn">中文（中国大陆）‎</a></div>
+		<div><img alt="中文（台灣）‎ (zh-tw)" src="/w/images/e/e6/Flag-zh-tw.png" title="中文（台灣）‎ (zh-tw)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:zh-tw&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">中文（台灣）‎</span></a></div>
+		<div><img alt="한국어 (ko)" src="/w/images/f/f7/Flag-ko.png" title="한국어 (ko)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:ko&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">한국어</span></a></div>
+		<div><img alt="ქართული (ka)" src="/w/images/c/ca/Flag-ka.png" title="ქართული (ka)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:ka&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">ქართული</span></a></div>
+		<div><img alt="עברית (he)" src="/w/images/8/8b/Flag-he.png" title="עברית (he)" width="16" height="11" data-file-width="16" data-file-height="11" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List:he&amp;action=edit&amp;preload=Dedicated+Servers+List"><span style="color:rgb(214,75,75);">עברית</span></a></div>
+	</span></div></div></div><div style="pointer-events:all">
+	<center class="mw-customtoggle-editaction" style="height:19px; background-color:#262626; border:1px solid #65635F; border-bottom:0; border-radius:3px 3px 0 0"><span class="plainlinks" style="display:flex; justify-content:center; width:36px; height:100%; font-size:10px" title="Actions"><div style="position: relative; top:-3.5px; color:rgb(255,255,255);"><b>...</b> <img alt="Icon-Important.png" src="/w/images/thumb/5/5c/Icon-Important.png/10px-Icon-Important.png" width="10" height="12" srcset="/w/images/thumb/5/5c/Icon-Important.png/15px-Icon-Important.png 1.5x, /w/images/thumb/5/5c/Icon-Important.png/20px-Icon-Important.png 2x" data-file-width="500" data-file-height="600" /></div></span></center>
+			<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-editaction" style="display:none; overflow:hidden; background:#404040; border:1px solid rgba(255, 255, 255, 0.1); border-radius:4px; box-shadow:0 10px 20px rgb(0,0,0,.3); user-select:text; position:absolute; z-index:1001; right:0px; top:26px"><div style="overflow-y:auto;max-height:200px;padding:2px 6px;"><span class="plainlinks">
+				<div><div style="margin:.5em 0; margin-left:calc(2em * 0); display:flex; gap:4px; background:linear-gradient(90deg, rgba(240,211,0,.07) 0%, transparent 100%); border-left:2px solid rgb(240,211,0); border-radius:2px; padding:6px 0 4px 12px;"><strong style="display:table-cell; color:rgb(240,211,0); white-space:nowrap;"><span style="user-select:none; margin-right:4px;"><img alt="Icon-Important.png" src="/w/images/thumb/5/5c/Icon-Important.png/10px-Icon-Important.png" width="10" height="12" srcset="/w/images/thumb/5/5c/Icon-Important.png/15px-Icon-Important.png 1.5x, /w/images/thumb/5/5c/Icon-Important.png/20px-Icon-Important.png 2x" data-file-width="500" data-file-height="600" /></span>Important:</strong><span style="display:table-cell;"><small>This page uses the <kbd>{{<a href="/wiki/Template:Lang" title="Template:Lang">lang</a>}}</kbd> translation<br />template, which is deprecated.<br /> It should be replaced by the <br /><kbd>{{<a href="/wiki/Template:MultiPage" title="Template:MultiPage">MultiPage</a>}}</kbd> template if possible. <br /> For more information, <a href="/wiki/Template:MultiPage" title="Template:MultiPage">see this page</a>.</small></span></div></div>
+				<div><img alt="Icon-edit.png" src="/w/images/thumb/0/0d/Icon-edit.png/16px-Icon-edit.png" width="16" height="16" srcset="/w/images/thumb/0/0d/Icon-edit.png/24px-Icon-edit.png 1.5x, /w/images/thumb/0/0d/Icon-edit.png/32px-Icon-edit.png 2x" data-file-width="256" data-file-height="256" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List&amp;action=edit">Edit</a></div>
+				<div><img alt="Icon-history.png" src="/w/images/thumb/e/e5/Icon-history.png/16px-Icon-history.png" width="16" height="16" srcset="/w/images/thumb/e/e5/Icon-history.png/24px-Icon-history.png 1.5x, /w/images/thumb/e/e5/Icon-history.png/32px-Icon-history.png 2x" data-file-width="48" data-file-height="48" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List&amp;action=history">Page history</a></div>
+				<div><img alt="Icon-deblur.png" src="/w/images/thumb/4/44/Icon-deblur.png/16px-Icon-deblur.png" width="16" height="17" srcset="/w/images/thumb/4/44/Icon-deblur.png/24px-Icon-deblur.png 1.5x, /w/images/thumb/4/44/Icon-deblur.png/32px-Icon-deblur.png 2x" data-file-width="243" data-file-height="256" /> <a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List&amp;action=purge">Purge this page</a></div>
+				<div><img alt="Icon arrow outward.png" src="/w/images/thumb/1/1c/Icon_arrow_outward.png/16px-Icon_arrow_outward.png" width="16" height="16" srcset="/w/images/thumb/1/1c/Icon_arrow_outward.png/24px-Icon_arrow_outward.png 1.5x, /w/images/thumb/1/1c/Icon_arrow_outward.png/32px-Icon_arrow_outward.png 2x" data-file-width="48" data-file-height="48" /> <a href="/wiki/Special:MovePage/Dedicated_Servers_List" title="Special:MovePage/Dedicated Servers List">Move</a></div>
+<p class="mw-empty-elt">				
+</p>
+	</span></div></div></div></div>
+<div style="padding-left:20px; padding-top:4px; padding-bottom:4px;"><span style="background-color:#202020; padding:2px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;"><a href="/wiki/SteamCMD" title="SteamCMD"> &#8592; <small>  SteamCMD </small></a></span></div>
+<div style="clear:right; float:right; margin:0 0 1em 1em"><div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Windows_Dedicated_Servers"><span class="tocnumber">1</span> <span class="toctext">Windows Dedicated Servers</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Linux_Dedicated_Servers"><span class="tocnumber">2</span> <span class="toctext">Linux Dedicated Servers</span></a></li>
+</ul>
+</div>
+</div>
+<p>This is a list of dedicated servers available on <a href="/wiki/Steam" title="Steam">Steam</a> and <a href="/wiki/SteamCMD" title="SteamCMD">SteamCMD</a>. New dedicated servers are added regularly, as such this is not a complete list. <a rel="nofollow" class="external text" href="https://steamdb.info/search/?a=app&amp;q=server">SteamDB</a> can be used to find all available servers.
+</p>
+<div><div style="margin:.5em 0; margin-left:calc(2em * 0); display:flex; gap:4px; background:linear-gradient(90deg, rgba(245,80,50,.07) 0%, transparent 100%); border-left:2px solid rgb(245,80,50); border-radius:2px; padding:6px 0 4px 12px;"><strong style="display:table-cell; color:rgb(245,80,50); white-space:nowrap;"><span style="user-select:none; margin-right:4px;"><img alt="Icon-Bug.png" src="/w/images/thumb/b/b4/Icon-Bug.png/10px-Icon-Bug.png" width="10" height="13" srcset="/w/images/thumb/b/b4/Icon-Bug.png/15px-Icon-Bug.png 1.5x, /w/images/thumb/b/b4/Icon-Bug.png/20px-Icon-Bug.png 2x" data-file-width="500" data-file-height="650" /></span>Bug:</strong><span style="display:table-cell;">Some apps can only be downloaded when logged in as <i>anonymous</i>. (e.g. CS:S will not work with a normal Steam account)</span></div></div>
+<div style="margin:.5em 0; margin-left:calc(2em * 0); display:flex; gap:4px; background:linear-gradient(90deg, rgba(230,233,190,.07) 0%, transparent 100%); border-left:2px solid rgb(230,233,190); border-radius:2px; padding:6px 0 4px 12px;"><strong style="display:table-cell; color:rgb(230,233,190); white-space:nowrap;"><span style="user-select:none; margin-right:4px;"><img alt="Note.png" src="/w/images/thumb/c/cc/Note.png/10px-Note.png" width="10" height="13" srcset="/w/images/thumb/c/cc/Note.png/15px-Note.png 1.5x, /w/images/thumb/c/cc/Note.png/20px-Note.png 2x" data-file-width="500" data-file-height="650" /></span>Note:</strong><span style="display:table-cell;">Items marked as <i>Beta</i> below may require -beta beta as part of their app_update argument... ex. +app_update "90 -beta beta"</span></div>
+<div style="margin:.5em 0; margin-left:calc(2em * 0); display:flex; gap:4px; background:linear-gradient(90deg, rgba(240,240,240,.07) 0%, transparent 100%); border-left:2px solid rgb(240,240,240); border-radius:2px; padding:6px 0 4px 12px;"><strong style="display:table-cell; color:rgb(240,240,240); white-space:nowrap;"><span style="user-select:none; margin-right:4px;"><img alt="Tip.png" src="/w/images/thumb/4/45/Tip.png/9px-Tip.png" width="9" height="12" srcset="/w/images/thumb/4/45/Tip.png/14px-Tip.png 1.5x, /w/images/thumb/4/45/Tip.png/18px-Tip.png 2x" data-file-width="450" data-file-height="600" /></span>Tip:</strong><span style="display:table-cell;">To install multiple mods, separate their names with commas, e.g. <code>+app_set_config 90 mod czero,dod</code>.</span></div>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Windows_Dedicated_Servers">Windows Dedicated Servers</span></h2>
+<table class="standard-table sortable" style="width:100%;">
+<tbody><tr>
+<th width="350px">Server Name
+</th>
+<th width="75px">AppID
+</th>
+<th width="75px">SteamCMD Client
+</th>
+<th width="75px">Steam Client
+</th>
+<th width="75px">Anonymous Login
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td height="40px"><a href="/wiki/7_Days_to_Die_Dedicated_Server" title="7 Days to Die Dedicated Server">7 Days to Die Dedicated Server</a>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/294420">294420</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Assetto Corsa Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/302550">302550</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">ASTRONEER Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/728470">728470</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Age of Chivalry Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/17515">17515</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Alien Swarm Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/635">635</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Windows version only.
+</td></tr>
+<tr>
+<td height="40px">Alien Swarm: Reactive Drop Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/582400">582400</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>Windows version only. Can <a rel="nofollow" class="external text" href="https://steamcommunity.com/sharedfiles/filedetails/?id=862024047">run on Linux using Wine</a>.
+</td></tr>
+<tr>
+<td height="40px">Aliens vs Predator Dedicated Server
+</td>
+<td align="center">34120
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">America's Army 3 Dedicated Server
+</td>
+<td align="center">13180
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">America's Army 3 Dedicated Server Beta
+</td>
+<td align="center">13160
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">America's Army: Proving Grounds Dedicated Server
+</td>
+<td align="center">203300
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://ark.gamepedia.com/Dedicated_Server_Setup">ARK: Survival Evolved Dedicated Server</a>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/376030">376030</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">ARK: Survival of the Fittest Dedicated Server
+</td>
+<td align="center">445400
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">ARMA 2 Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/33905">33905</a>
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Arma 2: Operation Arrowhead Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/33935">33935</a>
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://community.bistudio.com/wiki/Arma_3_Dedicated_Server">Arma 3 Dedicated Server</a>
+</td>
+<td align="center">233780
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Game Purchase Required
+</td></tr>
+<tr>
+<td height="40px"><a href="/wiki/Black_Mesa" title="Black Mesa">Black Mesa: Deathmatch</a> Dedicated Server
+</td>
+<td align="center">346680
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes*
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>Downloading on Steam GUI client with non-anonymous login requires game purchase.
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://www.blade-symphony.com/server-guide/">Blade Symphony Dedicated Server</a>
+</td>
+<td align="center">228780
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Game Purchase Required
+</td></tr>
+<tr>
+<td height="40px">Breach Dedicated Server
+</td>
+<td align="center">72310
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">BrainBread 2 Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/475370">475370</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://developer.valvesoftware.com/wiki/Brink_Dedicated_Server">Brink Dedicated Server</a>
+</td>
+<td align="center">72780
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">BlazeRush Dedicated Server
+</td>
+<td align="center">332850
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Capsa Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/667230">667230</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Call of Duty: Modern Warfare 3 Dedicated Server|
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/42750">42750</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Chivalry: Deadliest Warrior Dedicated server
+</td>
+<td align="center">258680
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Chivalry: Medieval Warfare Dedicated Server
+</td>
+<td align="center">220070
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Conan Exiles Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/443030">443030</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Contagion Dedicated Server
+</td>
+<td align="center">238430
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Windows server only
+</td></tr>
+<tr>
+<td height="40px">Counter-Strike 1.6 Dedicated Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Dedicated_Servers">Counter-Strike Global Offensive Dedicated Server</a>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/740">740</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>Game Purchase Required for public server.
+</td></tr>
+<tr>
+<td height="40px">Counter-Strike: Condition Zero Dedicated Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>+app_set_config "90 mod czero"
+</td></tr>
+<tr>
+<td height="40px">Counter-Strike: Source Dedicated Server
+</td>
+<td align="center">232330
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">D.I.P.R.I.P. Dedicated Server
+</td>
+<td align="center">17535
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Dark Messiah of Might &amp; Magic Dedicated Server
+</td>
+<td align="center">2145
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Darkest Hour Dedicated Server
+</td>
+<td align="center">1290
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Day of Defeat Dedicated Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>+app_set_config "90 mod dod"
+</td></tr>
+<tr>
+<td height="40px">Day of Defeat: Source Dedicated Server
+</td>
+<td align="center">232290
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Day of Infamy Dedicated Server
+</td>
+<td align="center">462310
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Deathmatch Classic Dedicated Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>+app_set_config "90 mod dmc"
+</td></tr>
+<tr>
+<td height="40px">Dino D-Day Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/70010">70010</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Dayz Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/223350">223350</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://www.doubleactiongame.com/serverguide">Double Action Dedicated Server</a>
+</td>
+<td align="center">317800
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Dystopia Dedicated Server
+</td>
+<td align="center">17585
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Eden Star Dedicated Server
+</td>
+<td align="center">419790
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">E.Y.E - Dedicated Server
+</td>
+<td align="center">91720
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Empires Dedicated Server
+</td>
+<td align="center">460040
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Eternal Silence Dedicated Server
+</td>
+<td align="center">17555
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Fistful of Frags Server
+</td>
+<td align="center">295230
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">The Forest Dedicated Server
+</td>
+<td align="center">556450
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>Windows version only
+</td></tr>
+<tr>
+<td height="40px">Fortress Forever Dedicated Server
+</td>
+<td align="center">329710
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="https://wiki.facepunch.com/gmod/Downloading_a_Dedicated_Server">Garry's Mod Dedicated Server</a>
+</td>
+<td align="center">4020
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">GTR Evolution Demo Dedicated Server
+</td>
+<td align="center">8730
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Half-Life 2: Deathmatch Dedicated Server
+</td>
+<td align="center">232370
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Half-Life Deathmatch: Source Dedicated server
+</td>
+<td align="center">255470
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a href="/wiki/Half-Life_Dedicated_Server" title="Half-Life Dedicated Server">Half-Life Dedicated Server</a>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/90">90</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Half-Life: Opposing Force Dedicated Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>+app_set_config "90 mod gearbox"
+</td></tr>
+<tr>
+<td height="40px">Homefront Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/55280">55280</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Hurtworld dedicated server
+</td>
+<td align="center">405100
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/jamiebatch452/Useful-Files/blob/master/hurtworldserver.bat">Bat file</a> for server.
+</td></tr>
+<tr>
+<td height="40px">Insurgency: Sandstorm Dedicated Server
+</td>
+<td align="center">581330
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a href="/wiki/Insurgency_2014_Dedicated_Server" title="Insurgency 2014 Dedicated Server">Insurgency Dedicated Server</a>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/237410">237410</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Insurgency: Modern Infantry Combat Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/17705">17705</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Just Cause 2: Multiplayer Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/261140">261140</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">JBMod Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/2181210">2181210</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://wiki.tripwireinteractive.com/index.php?title=Dedicated_Server_(KillingFloor)">Killing Floor Beta Dedicated Server</a>
+</td>
+<td align="center">1273
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://wiki.tripwireinteractive.com/index.php?title=Dedicated_Server_(KillingFloor)">Killing Floor Dedicated Server Windows</a>
+</td>
+<td align="center">215350
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Please create a new account or use a pre-existing one, account doesn't need to own the game; or else you will get the dreaded "ERROR! Failed to install app '215360' (No subscription)"
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://wiki.tripwireinteractive.com/index.php?title=Dedicated_Server_(Killing_Floor_2)">Killing Floor 2 Dedicated Server Windows</a>
+</td>
+<td align="center">232130
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Kingdoms Rise Dedicated Server
+</td>
+<td align="center">265360
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Lambda Wars Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/319060">319060</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Left 4 Dead 2 Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/222860">222860</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Left 4 Dead Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/222840">222840</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Life is Feudal: Your Own Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/320850">320850</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Mare Nostrum Dedicated Server
+</td>
+<td align="center">?
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Monday Night Combat Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/63220">63220</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Mod and Play Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/1301040">1301040</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://wiki.unknownworlds.com/ns2/Dedicated_Server">Natural Selection 2 Dedicated Server</a>
+</td>
+<td align="center">4940
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Nexuiz Dedicated Server
+</td>
+<td align="center">96810
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://www.nomoreroominhell.com/wiki/Dedicated_Server_Setup">No More Room in Hell Dedicated Server</a>
+</td>
+<td align="center">317670
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">NEOTOKYO Dedicated Server
+</td>
+<td align="center">313600
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://wiki.unknownworlds.com/ns2/Dedicated_Server">NS2: Combat Dedicated Server</a>
+</td>
+<td align="center">313900
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Nuclear Dawn Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/111710">111710</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://outofreach.gamepedia.com/Dedicated_Servers_Installation">Out of Reach Dedicated Server</a>
+</td>
+<td align="center">406800
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Painkiller Hell &amp; Damnation Dedicated Server
+</td>
+<td align="center">230030
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="https://tech.palworldgame.com/dedicated-server-guide">Palworld Dedicated Server</a>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/2394010">2394010</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Pirates, Vikings, and Knights II Dedicated Server
+</td>
+<td align="center">17575
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Primal Carnage Dedicated Server
+</td>
+<td align="center">224620
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://pzwiki.net/wiki/Multiplayer_FAQ">Project Zomboid Dedicated Server</a>
+</td>
+<td align="center">108600
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Game Purchase Required
+</td></tr>
+<tr>
+<td height="40px">RACE 07 Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/8610">8610</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">RACE 07 Demo - Crowne Plaza Edition Dedicated Server
+</td>
+<td align="center">8680
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">RACE 07 Demo Dedicated Server
+</td>
+<td align="center">4270
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">RACE On - Demo: Dedicated Server
+</td>
+<td align="center">8770
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Ravaged Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/223160">223160</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Red Orchestra 2 Dedicated Server
+</td>
+<td align="center">212542
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Red Orchestra Windows Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/223240">223240</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Reflex Dedicated Server
+</td>
+<td align="center">329740
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Reign Of Kings Dedicated Server
+</td>
+<td align="center">381690
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Ricochet Dedicated Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>+app_set_config "90 mod ricochet"
+</td></tr>
+<tr>
+<td height="40px"><a href="/wiki/Rust_Dedicated_Server" title="Rust Dedicated Server">Rust Dedicated Server</a>
+</td>
+<td align="center">258550
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>Not Working on Linux with SteamCMD
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="https://satisfactory.wiki.gg/wiki/Dedicated_servers">Satisfactory Dedicated Server</a>
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/1690800">1690800</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Serious Sam 3 Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/41080">41080</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Serious Sam HD Dedicated Server
+</td>
+<td align="center">41005
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Serious Sam Classics: Revolution Dedicated Server
+</td>
+<td align="center">41005
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Serious Sam HD: The Second Encounter Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/41015">41015</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Sniper Elite 3 Dedicated Server
+</td>
+<td align="center">266910
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Sniper Elite V2 Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/208050">208050</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Source SDK Base 2006 MP Dedicated Server
+</td>
+<td align="center">205
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td><div><div style="margin:.5em 0; margin-left:calc(2em * 0); display:flex; gap:4px; background:linear-gradient(90deg, rgba(245,80,50,.07) 0%, transparent 100%); border-left:2px solid rgb(245,80,50); border-radius:2px; padding:6px 0 4px 12px;"><strong style="display:table-cell; color:rgb(245,80,50); white-space:nowrap;"><span style="user-select:none; margin-right:4px;"><img alt="Icon-Bug.png" src="/w/images/thumb/b/b4/Icon-Bug.png/10px-Icon-Bug.png" width="10" height="13" srcset="/w/images/thumb/b/b4/Icon-Bug.png/15px-Icon-Bug.png 1.5x, /w/images/thumb/b/b4/Icon-Bug.png/20px-Icon-Bug.png 2x" data-file-width="500" data-file-height="650" /></span>Bug:</strong><span style="display:table-cell;">Linux files missing</span></div></div>
+</td></tr>
+<tr>
+<td height="40px">Source 2007 Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/310">310</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Source Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/205">205</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Source SDK Base 2013 Dedicated Server
+</td>
+<td align="center">244310
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Sons Of The Forest Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/2465200">2465200</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Space Engineers Dedicated Server
+</td>
+<td align="center">298740
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://squad.gamepedia.com/Server_Configuration">Squad Dedicated Server</a>
+</td>
+<td align="center">403240
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://starbounder.org/Guide:Setting_Up_Multiplayer">Starbound Dedicated server</a>
+</td>
+<td align="center">211820
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Game Purchase Required
+</td></tr>
+<tr>
+<td height="40px">Starvoid Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/210370">210370</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Game Purchase Required
+</td></tr>
+<tr>
+<td height="40px">STCC - The Game Demo Dedicated Server
+</td>
+<td align="center">8710
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Sven Co-op Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/276060">276060</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Synergy Dedicated Server
+</td>
+<td align="center">17525
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Takedown: Red Sabre Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/261020">261020</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://wiki.teamfortress.com/wiki/Windows_dedicated_server">Team Fortress 2 Dedicated Server</a>
+</td>
+<td align="center">232250
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Team Fortress Classic dedicated server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>+app_set_config "90 mod tfc"
+</td></tr>
+<tr>
+<td height="40px">The Haunted: Hells Reach Dedicated Server
+</td>
+<td align="center">43210
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://steamcommunity.com/sharedfiles/filedetails/?id=662378924">Tower Unite Dedicated server</a>
+</td>
+<td align="center">439660
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">The Ship Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/2403">2403</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Zombie Panic Source Dedicated Server
+</td>
+<td align="center"><a rel="nofollow" class="external text" href="steam://install/17505">17505</a>
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Zombie Grinder Dedicated Server
+</td>
+<td align="center">374980
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Linux_Dedicated_Servers">Linux Dedicated Servers</span></h2>
+<table class="standard-table sortable" style="width:100%;">
+<tbody><tr>
+<th width="350px">Server Name
+</th>
+<th width="75px">AppID
+</th>
+<th width="75px">SteamCMD Client
+</th>
+<th width="75px">Steam Client
+</th>
+<th width="75px">Anonymous Login
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td height="40px"><a href="/wiki/7_Days_to_Die_Dedicated_Server" title="7 Days to Die Dedicated Server">7 Days to Die Dedicated Server</a>
+</td>
+<td align="center">294420
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Game purchase required
+</td></tr>
+<tr>
+<td height="40px">ARK: Survival Evolved Dedicated Server
+</td>
+<td align="center">376030
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://community.bistudio.com/wiki/Arma_3_Dedicated_Server">Arma 3 Dedicated Server</a>
+</td>
+<td align="center">233780
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="https://barotraumagame.com/wiki/Hosting_a_Dedicated_Server">Barotrauma Dedicated Server</a>
+</td>
+<td align="center">1026340
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Black Mesa: Deathmatch  Dedicated Server
+</td>
+<td align="center">346680
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">BrainBread 2 Dedicated Server
+</td>
+<td align="center">475370
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://www.blade-symphony.com/server-guide/">Blade Symphony Dedicated Server</a>
+</td>
+<td align="center">228780
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Game Purchase Required
+</td></tr>
+<tr>
+<td height="40px">BlazeRush Dedicated Server
+</td>
+<td align="center">332850
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Counter-Strike Dedicated Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a href="/wiki/Counter-Strike:_Global_Offensive_Dedicated_Servers" class="mw-redirect" title="Counter-Strike: Global Offensive Dedicated Servers">Counter-Strike Global Offensive Dedicated Server</a>
+</td>
+<td align="center">740
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>Login for public server
+</td></tr>
+<tr>
+<td height="40px">Counter-Strike: Condition Zero Dedicated Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>+app_set_config "90 mod czero"
+</td></tr>
+<tr>
+<td height="40px">Counter-Strike: Source Dedicated Server
+</td>
+<td align="center">232330
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Chivalry Medieval Warfare Dedicated Server
+</td>
+<td align="center">220070
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Dark Horizons: Mechanized Corps Dedicated Server
+</td>
+<td align="center">312070
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Day of Defeat Dedicated Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>+app_set_config "90 mod dod"
+</td></tr>
+<tr>
+<td height="40px">Day of Defeat: Source Dedicated Server
+</td>
+<td align="center">232290
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Day of Infamy Dedicated Server
+</td>
+<td align="center">462310
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Deathmatch Classic Dedicated Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>+app_set_config "90 mod dmc"
+</td></tr>
+<tr>
+<td height="40px">Dota 2 Dedicated Server
+</td>
+<td align="center">570
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Don't Starve Together Dedicated Server
+</td>
+<td align="center">343050
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Fistful of Frags Server
+</td>
+<td align="center">295230
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server">Garry's Mod Dedicated Server</a>
+</td>
+<td align="center">4020
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Half-Life 2: Deathmatch Dedicated Server
+</td>
+<td align="center">232370
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Hurtworld dedicated server
+</td>
+<td align="center">405100
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/jamiebatch452/Useful-Files/blob/master/hurtworldserver.bat">Bat file</a> for server.
+</td></tr>
+<tr>
+<td height="40px">Half-Life Deathmatch: Source Dedicated server
+</td>
+<td align="center">255470
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="https://developer.valvesoftware.com/wiki/Half-Life_Dedicated_Server">Half-Life Dedicated Server</a>
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Half-Life: Opposing Force  Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>+app_set_config "90 mod gearbox"
+</td></tr>
+<tr>
+<td height="40px"><a href="/wiki/Insurgency_2014_Dedicated_Server" title="Insurgency 2014 Dedicated Server">Insurgency 2014 Dedicated Server</a>
+</td>
+<td align="center">237410
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Insurgency: Modern Infantry Combat Dedicated Server
+</td>
+<td align="center">17705
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Just Cause 2: Multiplayer - Dedicated Server
+</td>
+<td align="center">261140
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://wiki.tripwireinteractive.com/index.php?title=Dedicated_Server_(KillingFloor)">Killing Floor Dedicated Server - Linux</a>
+</td>
+<td align="center">215360
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Please create a new account or use a pre-existing one, account doesn't need to own the game; or else you will get the dreaded "ERROR! Failed to install app '215360' (No subscription)"
+</td></tr>
+<tr>
+<td height="40px">Killing Floor 2 Dedicated Server
+</td>
+<td align="center">232130
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Left 4 Dead 2 Dedicated Server
+</td>
+<td align="center">222860
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Left 4 Dead Dedicated Server
+</td>
+<td align="center">222840
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://wiki.unknownworlds.com/ns2/Dedicated_Server">Natural Selection 2 Dedicated Server</a>
+</td>
+<td align="center">4940
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://wiki.unknownworlds.com/ns2/Dedicated_Server">NS2: Combat Dedicated Server</a>
+</td>
+<td align="center">313900
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://wiki.nomoreroominhell.com/wiki/Dedicated_Server_Setup">No More Room In Hell Dedicated Server</a>
+</td>
+<td align="center">317670
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://outofreach.gamepedia.com/Dedicated_Servers_Installation">Out of Reach Dedicated Server</a>
+</td>
+<td align="center">406800
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Pirates, Vikings, and Knights II Dedicated Server
+</td>
+<td align="center">17575
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://pzwiki.net/wiki/Multiplayer_FAQ">Project Zomboid Dedicated Server</a>
+</td>
+<td align="center">108600
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Game Purchase Required
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="https://linuxgsm.com/servers/qlserver/">Quake Live Dedicated Server</a>
+</td>
+<td align="center">349090
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="https://linuxgsm.com/servers/q2server/">Quake 2 Dedicated Server</a>
+</td>
+<td align="center">2320
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Red Orchestra Linux Dedicated Server
+</td>
+<td align="center">223250
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Ricochet Dedicated Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>+app_set_config "90 mod ricochet"
+</td></tr>
+<tr>
+<td height="40px"><a href="/wiki/Rust_Dedicated_Server" title="Rust Dedicated Server">Rust Dedicated Server</a>
+</td>
+<td align="center">258550
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="https://satisfactory.wiki.gg/wiki/Dedicated_servers">Satisfactory Dedicated Server</a>
+</td>
+<td align="center">1690800
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Serious Sam 3 Dedicated Server
+</td>
+<td align="center">41080
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Source SDK Base 2006 MP Dedicated Server
+</td>
+<td align="center">205
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td><div><div style="margin:.5em 0; margin-left:calc(2em * 0); display:flex; gap:4px; background:linear-gradient(90deg, rgba(245,80,50,.07) 0%, transparent 100%); border-left:2px solid rgb(245,80,50); border-radius:2px; padding:6px 0 4px 12px;"><strong style="display:table-cell; color:rgb(245,80,50); white-space:nowrap;"><span style="user-select:none; margin-right:4px;"><img alt="Icon-Bug.png" src="/w/images/thumb/b/b4/Icon-Bug.png/10px-Icon-Bug.png" width="10" height="13" srcset="/w/images/thumb/b/b4/Icon-Bug.png/15px-Icon-Bug.png 1.5x, /w/images/thumb/b/b4/Icon-Bug.png/20px-Icon-Bug.png 2x" data-file-width="500" data-file-height="650" /></span>Bug:</strong><span style="display:table-cell;">Linux files missing</span></div></div>
+</td></tr>
+<tr>
+<td height="40px">Source 2007 Dedicated Server
+</td>
+<td align="center">310
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Source Dedicated Server
+</td>
+<td align="center">205
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Source SDK Base 2013 Dedicated Server
+</td>
+<td align="center">244310
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://squad.gamepedia.com/Server_Configuration">Squad Dedicated Server</a>
+</td>
+<td align="center">403240
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://starbounder.org/Guide:Setting_Up_Multiplayer">Starbound Dedicated server</a>
+</td>
+<td align="center">211820
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Game Purchase Required
+</td></tr>
+<tr>
+<td height="40px">Sven Co-op Dedicated Server
+</td>
+<td align="center">276060
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>Supported on Debian and derivatives (including Ubuntu) only. First enable i386 with `dpkg --add-architecture i386` if running on amd64, then `apt install libc6:i386 zlib1g:i386 libssl1.1:i386 libstdc++6:i386`.
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://wiki.teamfortress.com/wiki/Linux_dedicated_server">Team Fortress 2 Dedicated Server</a>
+</td>
+<td align="center">232250
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Team Fortress Classic Dedicated Server
+</td>
+<td align="center">90
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>+app_set_config "90 mod tfc"
+</td></tr>
+<tr>
+<td height="40px">The Ship Dedicated Server
+</td>
+<td align="center">2403
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px"><a rel="nofollow" class="external text" href="http://steamcommunity.com/sharedfiles/filedetails/?id=662378924">Tower Unite Dedicated Server</a>
+</td>
+<td align="center">439660
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Terraria Dedicated Server
+</td>
+<td align="center">105600
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>Game Purchase Required
+</td></tr>
+<tr>
+<td height="40px">Unturned Dedicated Server
+</td>
+<td align="center">1110390
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #ff9090; color: black; vertical-align: middle; text-align: center;" class="table-no">No
+</td>
+<td>
+</td></tr>
+<tr>
+<td height="40px">Zombie Panic Source Dedicated Server
+</td>
+<td align="center">17505
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td style="background: #90ff90; color: black; vertical-align: middle; text-align: center;" class="table-yes">Yes
+</td>
+<td>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20240121193419
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.831 seconds
+Real time usage: 3.710 seconds
+Preprocessor visited node count: 14123/1000000
+Preprocessor generated node count: 47012/1000000
+Post‐expand include size: 104482/2097152 bytes
+Template argument size: 13144/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 26/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 3007.085      1 -total
+ 59.72% 1795.892      1 Template:Lang
+ 38.78% 1166.061     26 Template:New_flag_icon
+ 38.72% 1164.442      6 Template:Notify
+ 37.82% 1137.290     24 Template:Uselang
+ 30.14%  906.205      9 Template:Autolang
+ 18.54%  557.551      6 Template:Dictionary/notices
+ 16.03%  482.080      3 Template:Bug
+ 12.97%  390.036      1 Template:ModernImportant
+  9.98%  300.112      6 Template:Text-dir
+-->
+</div>
+<!-- Saved in parser cache with key developerwiki-mw_:pcache:idhash:28885-0!canonical and timestamp 20240121193415 and revision id 378635
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List&amp;oldid=378635">https://developer.valvesoftware.com/w/index.php?title=Dedicated_Servers_List&amp;oldid=378635</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Pages_with_other_bugs" title="Category:Pages with other bugs">Pages with other bugs</a></li><li><a href="/wiki/Category:Steam" title="Category:Steam">Steam</a></li><li><a href="/wiki/Category:Steam_Applications" title="Category:Steam Applications">Steam Applications</a></li><li><a href="/wiki/Category:Dedicated_Server" title="Category:Dedicated Server">Dedicated Server</a></li><li><a href="/wiki/Category:Lists" title="Category:Lists">Lists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:English" title="Category:English">English</a></li><li><a href="/wiki/Category:Pages_using_Lang" title="Category:Pages using Lang">Pages using Lang</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dedicated+Servers+List" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dedicated+Servers+List" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Dedicated_Servers_List" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Dedicated_Servers_List" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Dedicated_Servers_List">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/w/index.php?title=Dedicated_Servers_List&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dedicated_Servers_List&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Valve Developer Community" title="Search Valve Developer Community [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-Source-SDK-index"><a href="/wiki/SDK_Docs">Source SDK index</a></li><li id="n-Dota-2-Tools"><a href="/wiki/Dota_2_Workshop_Tools">Dota 2 Tools</a></li><li id="n-Half-Life:Alyx-Tools"><a href="/wiki/Half-Life:_Alyx_Workshop_Tools">Half-Life:Alyx Tools</a></li><li id="n-SteamVR-Tools"><a href="/wiki/SteamVR/Environments">SteamVR Tools</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Support" aria-labelledby="p-Support-label">
+			<h3 id="p-Support-label">Support</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Getting-help"><a href="/wiki/Help:Contents">Getting help</a></li><li id="n-Source-SDK-FAQ"><a href="/wiki/Category:Source_SDK_FAQ">Source SDK FAQ</a></li><li id="n-Level-Design-FAQ"><a href="/wiki/Category:Level_Design_FAQ">Level Design FAQ</a></li><li id="n-SDK-Help-Forums"><a href="http://forums.steampowered.com/forums/forumdisplay.php?f=191" rel="nofollow">SDK Help Forums</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Steam_Community" aria-labelledby="p-Steam_Community-label">
+			<h3 id="p-Steam_Community-label">Steam Community</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Source-SDK-Hub"><a href="http://steamcommunity.com/app/211" rel="nofollow">Source SDK Hub</a></li><li id="n-Steam-Games"><a href="http://www.steampowered.com" rel="nofollow">Steam Games</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dedicated_Servers_List" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dedicated_Servers_List" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Dedicated_Servers_List&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Dedicated_Servers_List&amp;oldid=378635" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dedicated_Servers_List&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 January 2024, at 03:09.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-about"><a href="/wiki/Valve_Developer_Community:About" title="Valve Developer Community:About">About Valve Developer Community</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Valve_Developer_Community:Terms_of_use" class="mw-redirect" title="Valve Developer Community:Terms of use">Terms of Use</a></li>
+								<li id="footer-places-legalnotices"><a href="/wiki/Valve_Developer_Community:Third_Party_Legal_Notices" title="Valve Developer Community:Third Party Legal Notices">Third Party Legal Notices</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.831","walltime":"3.710","ppvisitednodes":{"value":14123,"limit":1000000},"ppgeneratednodes":{"value":47012,"limit":1000000},"postexpandincludesize":{"value":104482,"limit":2097152},"templateargumentsize":{"value":13144,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":26,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8,"limit":5000000},"timingprofile":["100.00% 3007.085      1 -total"," 59.72% 1795.892      1 Template:Lang"," 38.78% 1166.061     26 Template:New_flag_icon"," 38.72% 1164.442      6 Template:Notify"," 37.82% 1137.290     24 Template:Uselang"," 30.14%  906.205      9 Template:Autolang"," 18.54%  557.551      6 Template:Dictionary/notices"," 16.03%  482.080      3 Template:Bug"," 12.97%  390.036      1 Template:ModernImportant","  9.98%  300.112      6 Template:Text-dir"]},"cachereport":{"timestamp":"20240121193419","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":619});});</script>
+	</body>
+</html>
